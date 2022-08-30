@@ -10,7 +10,6 @@
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
   
-  Atualmente aprendendo Python...
 <!--
 **WilliamKotoco/WilliamKotoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
