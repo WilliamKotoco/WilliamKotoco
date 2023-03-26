@@ -4,11 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamKotoco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamKotoco&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  <div style="display: inline_block"><br>
-  <img align="center"   src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-  <img align="center"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div>
+
   
 <!--
 **WilliamKotoco/WilliamKotoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
